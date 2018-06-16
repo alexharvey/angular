@@ -1,0 +1,219 @@
+#banner-img{
+	width:100%;
+}
+
+#money-box-div{
+	text-align:center;
+	margin-left:0 auto;
+}
+
+.money-box{
+	background-color:#80c2e5;
+	color:white;
+	border:1px solid #d12e3b;
+	text-align:center;
+	display:inline-block;
+	font-size:3vw;
+	width:10%;
+	line-height:300%;
+	margin-left:1%;
+}
+
+body{
+	text-align:center;
+}
+
+h2{
+	text-align:left;
+	margin-left:15%;
+}
+
+a{
+	text-decoration: none;
+}
+
+input{
+	display:inline-block;
+	font-size:24px;
+	border:2px solid #0084cb;
+	margin-top:2%;
+	color:#0084cb;
+	padding:2%;
+}
+
+.cc,
+.info,
+.eCheck,
+.dedicate {
+	width:70%;
+}
+
+
+
+body{
+	margin:auto;
+	font-family:"Proxima Nova Soft","Helvetica", "Arial", sans-serif;
+}
+
+#exp-date{
+	color:#1a1a1a;
+	border:none;
+}
+
+#exp-month{
+	width:10%;
+	text-align:center;
+}
+
+#exp-year{
+	width:15%;
+	text-align:center;
+}
+
+label{
+	text-align:left;
+	float:left;
+	margin-left:15%;
+}
+
+.checkbox-small{
+	font-size:16px;
+	padding-left:2.7%;
+}
+
+.checkboxes label{
+	display:inline-block;
+}
+
+.checkbox-label{
+	display:none;
+}
+
+label, #notify{
+	border:none;
+	font-size:22px;
+}
+
+.dedicate-label{
+	display:none;
+}
+
+#credit-card-box{
+	background-color:#80c2e5;
+	color:white;
+	border:1px solid #d12e3b;
+	text-align:center;
+	display:inline-block;
+	font-size:32px;
+	padding:2%;
+	width:25%;
+}
+
+#eCheck-box{
+	background-color:#80c2e5;
+	color:white;
+	border:1px solid #d12e3b;
+	text-align:center;
+	display:inline-block;
+	font-size:32px;
+	padding:2%;
+	margin-left:2%;
+	width:25%;
+}
+
+.cc{
+	display:inline-block;
+	font-size:24px;
+	padding:2%;
+}
+
+#checkboxes{
+	display:inline-block;
+	margin-left:10%;
+}
+
+.cc-label{
+
+}
+
+.eCheck-label{
+	display:none;
+}
+
+.info{
+	padding:2%;
+	display:inline-block;
+}
+
+.eCheck{
+	display:none;
+	font-size:24px;
+}
+
+.dedicate{
+	display:none;
+	width:70%;
+	font-size:24px;
+	border:2px solid #0084cb;
+	padding:5px;
+	margin-top:2%;
+	color:#0084cb;
+	padding:2%;
+}
+
+#radio-station-dropdown, .comments{
+	display:inline-block;
+	width:70%;
+	font-size:24px;
+	border:2px solid #0084cb;
+	padding:5px;
+	margin-top:2%;
+	color:#0084cb;
+	padding:2%;
+}
+
+#radio-station-dropdown{
+	margin-left:3%;
+	width:30%;
+}
+
+#complete-gift-btn{
+	background-color:#0084cb;
+	color:white;
+	border:1px solid #d12e3b;
+	text-align:center;
+	display:inline-block;
+	font-size:3vw;
+	width:45%;
+	padding:4%;
+	margin:0 auto;
+}
+
+select{
+	display:inline-block;
+}
+
+input[placeholder], [placeholder], *[placeholder] {
+	color:#0084cb !important;
+}
+
+input, select, textarea{
+	color:#0084cb;
+	border:2px solid #0084cb;
+}
+
+input::-webkit-input-placeholder {
+	color: #0084cb !important;
+}
+
+input:-moz-placeholder { /* Firefox 18- */
+	color: #0084cb !important;  
+}
+ 
+input::-moz-placeholder {  /* Firefox 19+ */
+	color: #0084cb !important;  
+}
+ 
+input:-ms-input-placeholder {  
+	color: #0084cb !important;  
+}
